@@ -228,6 +228,7 @@ const Sidebar = ({
               />
             </FlexBetween>
           </Box> */}
+					{/* for future */}
 				</Drawer>
 			)}
 		</Box>
